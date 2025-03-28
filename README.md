@@ -22,6 +22,19 @@
 
 5. **Testing**: Test your implementation by generating a token.
 
+## 🛠️ How to Test JWT Generation
+1. Ensure you have Node.js installed on your machine.
+2. Install the required dependencies by running:
+   ```
+   npm install
+   ```
+3. Run the JWT generation script:
+   ```
+   node generateToken.js
+   ```
+4. You should see a generated JWT and its decoded payload in the console.
+
 ## 🎉 Outcome
+
 
 - You'll be able to create secure JWTs with expiry, enhancing the security and user experience of your full-stack applications.
